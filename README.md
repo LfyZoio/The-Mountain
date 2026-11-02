@@ -1,5 +1,4 @@
 
-````markdown
 # 🏔️ The Mountain
 
 > Um jogo independente de alpinismo em 3D, no qual cada metro conquistado aproxima você do cume.
