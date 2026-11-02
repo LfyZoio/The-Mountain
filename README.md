@@ -229,15 +229,4 @@ Para propor alterações:
 
 ## 📄 Licença e créditos
 
-**Licença:** [informe a licença escolhida para o projeto].
-
-Adicione os termos ao arquivo `LICENSE`.
-
-Modelos, imagens, músicas, efeitos sonoros e outros assets de terceiros devem manter seus créditos e respeitar suas respectivas licenças.
-
----
-
-**The Mountain — cada metro é uma conquista.**
-````
-
-Para deixar o README definitivo, faltam principalmente **o link do repositório e o conteúdo do `package.json`**. Com eles, posso substituir os campos e informar as dependências e os comandos exatos.
+**Licença:**
