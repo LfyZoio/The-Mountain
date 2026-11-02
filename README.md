@@ -1,10 +1,3 @@
-# The-Mountain
-
-Agora sim — com o histórico que você enviou, o nome atualizado é **The Mountain**, e a stack descrita é **TypeScript + Three.js**.
-
-Como você enviou os trechos das conversas, mas não o código nem o conteúdo do `package.json`, deixei as funcionalidades solicitadas como **escopo do projeto**, sem afirmar que todas já estão prontas. Também não inventei frameworks, controles ou versões.
-
-**Copie o conteúdo abaixo para o seu `README.md`:**
 
 ````markdown
 # 🏔️ The Mountain
